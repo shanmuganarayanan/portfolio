@@ -4,9 +4,9 @@ export const personalInfo = {
   role: 'Frontend Engineer & AI Developer',
   location: 'India',
   available: true,
-  email: 'your@email.com',
+  email: 'shanmuga05111999@gmail.com',
   github: 'https://github.com/shanmuganarayanan',
-  linkedin: 'https://linkedin.com/in/yourprofile',
+  linkedin: 'https://linkedin.com/in/shanmuganarayanan-nagarajan/',
   bio: '4+ years crafting scalable interfaces, integrating agentic AI systems, and shipping production cloud platforms. From pixels to pipelines.',
   tagline: 'Building the Future of Web & AI',
 }
