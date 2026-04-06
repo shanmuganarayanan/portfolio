@@ -139,7 +139,7 @@ export default function Hero() {
             </div>
 
             {/* Security alert card */}
-            <div className="absolute top-0 left-0 w-52 bg-[#0c1428] border border-[#7b5ea7]/30 rounded-sm p-4 shadow-xl" style={{ animationDelay: '1s' }}>
+            <div className="absolute top-[-36px] left-0 w-52 bg-[#0c1428] border border-[#7b5ea7]/30 rounded-sm p-4 shadow-xl" style={{ animationDelay: '1s' }}>
               <div className="flex items-center gap-2 mb-2">
                 <span className="text-sm">🔐</span>
                 <span className="font-mono text-[10px] text-[#b89fd4]">ALERT</span>
