@@ -106,7 +106,7 @@ export default function Contact() {
               </div>
               <div className="flex-1">
                 <div className="font-mono text-[10px] text-[#6b8099] uppercase tracking-widest">LinkedIn</div>
-                <div className="text-sm font-bold mt-0.5">linkedin.com/in/yourprofile</div>
+                <div className="text-sm font-bold mt-0.5">Shanmuganarayanan-nagarajan</div>
               </div>
               <span className="font-mono text-[10px] text-[#ff9a70] opacity-0 group-hover:opacity-100 transition-opacity">Connect ↗</span>
             </a>
